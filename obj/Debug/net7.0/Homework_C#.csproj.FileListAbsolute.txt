@@ -1,0 +1,15 @@
+E:\Обучение GEEK\Homework_C#\bin\Debug\net7.0\Homework_C#.exe
+E:\Обучение GEEK\Homework_C#\bin\Debug\net7.0\Homework_C#.deps.json
+E:\Обучение GEEK\Homework_C#\bin\Debug\net7.0\Homework_C#.runtimeconfig.json
+E:\Обучение GEEK\Homework_C#\bin\Debug\net7.0\Homework_C#.dll
+E:\Обучение GEEK\Homework_C#\bin\Debug\net7.0\Homework_C#.pdb
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.csproj.AssemblyReference.cache
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.GeneratedMSBuildEditorConfig.editorconfig
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.AssemblyInfoInputs.cache
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.AssemblyInfo.cs
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.csproj.CoreCompileInputs.cache
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.dll
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\refint\Homework_C#.dll
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.pdb
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\Homework_C#.genruntimeconfig.cache
+E:\Обучение GEEK\Homework_C#\obj\Debug\net7.0\ref\Homework_C#.dll
